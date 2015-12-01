@@ -1,11 +1,11 @@
 {
-    "name": "jzyuchen/oauth-client",
+    "name": "haoyanfei/oauth-client",
     "description": "oauth client for laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jzyuchen",
-            "email": "jzyuchen@163.com"
+            "name": "haoyanfei",
+            "email": "haoyanfei@outlook.com"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Jzyuchen\\OAuthClient\\": "src/"
+          "Haoyanfei\\OAuthClient\\": "src/"
         }
   }
 }
